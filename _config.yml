@@ -1,14 +1,26 @@
 layout_spectrum: 0.7807603
-typography_spectrum: 0.1314509
+name: steveveilleuxphotography
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.910624
   lightness: 0.9420862
-  brandStrength: 0.8852688
   saturation: 0.2023518
   rhythmicContrast: 0.2999844
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-name: steveveilleuxphotography
+    - '#4067A2'
+    - '#4A4339'
+    - '#77A2CE'
+    - '#908066'
+    - '#E0CFAC'
+typography_spectrum: 0.1314509

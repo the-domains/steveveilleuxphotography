@@ -1,5 +1,7 @@
-layout_spectrum: 0.7807603
 name: steveveilleuxphotography
+favicon: null
+layout_spectrum: 0.7807603
+typography_spectrum: 0.1314509
 collections:
   - index:
       navigable: true
@@ -12,15 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#d2ccca'
+    - '#511f19'
+    - '#8e9da8'
+    - '#68798a'
+    - '#9c432c'
   brandStrength: 0.910624
   lightness: 0.9420862
-  saturation: 0.2023518
+  saturation: 0.5625
   rhythmicContrast: 0.2999844
-  brandColors:
-    - '#4067A2'
-    - '#4A4339'
-    - '#77A2CE'
-    - '#908066'
-    - '#E0CFAC'
-typography_spectrum: 0.1314509
+purpose: []

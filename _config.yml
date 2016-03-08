@@ -1,7 +1,7 @@
 name: steveveilleuxphotography
 favicon: null
-layout_spectrum: 0.7807603
-typography_spectrum: 0.1314509
+layout_spectrum: 1
+typography_spectrum: 0.50592
 collections:
   - index:
       navigable: true
